@@ -1,3 +1,3 @@
 # curly-octo-lamp
-submitted to botgames 
+submitted to Devpost botgames --Claims bot
 bot to check-in car damage claims
